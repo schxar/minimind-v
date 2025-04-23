@@ -1,2 +1,6 @@
 *.jpg
 *.pyc
+*.jsonl
+*.pth
+/model/vision_model/clip-vit-base-patch16
+/MiniMind2-V
